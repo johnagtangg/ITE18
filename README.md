@@ -1,1 +1,3 @@
-# ITE18
+# There are two branch that are uploaded in this repository
+# frontend branch is Nuxt.js
+# backend branch is for strapi to store data and information
